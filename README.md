@@ -7,8 +7,6 @@
 
 This is a portfolio-repository for my career as a software developer. A list of my projects can be found [here](#projects-).
 
-I'm currently studying web-development at [JAMK University of Applied Sciences](https://www.jamk.fi/en), and I'm looking for internship- and job-opportunities to launch my professional career.
-
 ## About me ⛷️
 
 I am a newly graduated sofware developer from [JAMK University of Applied Sciences](https://www.jamk.fi/en). In the first half of 2025 I spent six months as a developer intern at G-Tronic Oy, where I worked on the internal ERP-system, in a fullstack role mainly with Python, JavaScript (+ JQuery) and MariaDB. Some notable new features I created during the internship were a warehouse management system, bidding platform for material orders and a tool for handling order packaging and collection. During the rest of my studies I gathered a wide set of skills on web-development and I specialized myself in fullstack-development, mainly on JavaScript and its relating technologies.
