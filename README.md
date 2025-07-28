@@ -1,9 +1,6 @@
 # Portfolio 🖥️
 
-[About me](#about-me-%EF%B8%8F)
-[Skills](#skills-)
-[Projects](#projects-)
-[Contact info](#my-contact-info-)
+[About me](#about-me-%EF%B8%8F) | [Skills](#skills-) | [Projects](#projects-) | [Contact info](#my-contact-info-)
 
 This is a portfolio-repository for my career as a software developer. A list of my projects can be found [here](#projects-).
 
